@@ -1,0 +1,658 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MediPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|d:\\projects\\mediplus\\mediplus.domain\\mediplus.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|solutionrelative:mediplus.domain\\mediplus.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|d:\\projects\\mediplus\\mediplus.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|solutionrelative:mediplus.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\persistanceserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F449F4-91DC-4BE2-B9DB-413443F0A79F}|MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj|d:\\projects\\mediplus\\mediplus.infrastructure\\infrastructureinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F449F4-91DC-4BE2-B9DB-413443F0A79F}|MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj|solutionrelative:mediplus.infrastructure\\infrastructureinstallerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\applicationserviceinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\repositories\\generics\\queryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\repositories\\generics\\queryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\repositories\\generics\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\repositories\\generics\\commandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\mediplus.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\mediplus.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F449F4-91DC-4BE2-B9DB-413443F0A79F}|MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj|d:\\projects\\mediplus\\mediplus.infrastructure\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F449F4-91DC-4BE2-B9DB-413443F0A79F}|MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj|solutionrelative:mediplus.infrastructure\\services\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|d:\\projects\\mediplus\\mediplus.domain\\settings\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|solutionrelative:mediplus.domain\\settings\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|d:\\projects\\mediplus\\mediplus.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|solutionrelative:mediplus.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|d:\\projects\\mediplus\\mediplus.core\\mediplus.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|solutionrelative:mediplus.core\\mediplus.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\repositories\\sliderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\repositories\\sliderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|d:\\projects\\mediplus\\mediplus.mvc\\mediplus.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|solutionrelative:mediplus.mvc\\mediplus.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|d:\\projects\\mediplus\\mediplus.domain\\irepositories\\isliderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|solutionrelative:mediplus.domain\\irepositories\\isliderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\validators\\slider\\createslidervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\validators\\slider\\createslidervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\iservices\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\iservices\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|d:\\projects\\mediplus\\mediplus.core\\abstractions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|solutionrelative:mediplus.core\\abstractions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|d:\\projects\\mediplus\\mediplus.domain\\irepositories\\generics\\iqueryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|solutionrelative:mediplus.domain\\irepositories\\generics\\iqueryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|d:\\projects\\mediplus\\mediplus.domain\\irepositories\\generics\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|solutionrelative:mediplus.domain\\irepositories\\generics\\icommandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F449F4-91DC-4BE2-B9DB-413443F0A79F}|MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj|d:\\projects\\mediplus\\mediplus.infrastructure\\mediplus.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3F449F4-91DC-4BE2-B9DB-413443F0A79F}|MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj|solutionrelative:mediplus.infrastructure\\mediplus.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\dtos\\slider\\createsliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\dtos\\slider\\createsliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|d:\\projects\\mediplus\\mediplus.application\\dtos\\slider\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35646B7-13A3-4D96-AB44-8CE4FB0EA0DD}|MediPlus.Application\\MediPlus.Application.csproj|solutionrelative:mediplus.application\\dtos\\slider\\sliderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|d:\\projects\\mediplus\\mediplus.core\\abstractions\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|solutionrelative:mediplus.core\\abstractions\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\configuration\\sliderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\configuration\\sliderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\mediplus.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\mediplus.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|d:\\projects\\mediplus\\mediplus.persistance\\context\\mediplusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA5499-43F4-417A-93C4-30923CB8A1EE}|MediPlus.Persistance\\MediPlus.Persistance.csproj|solutionrelative:mediplus.persistance\\context\\mediplusdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|d:\\projects\\mediplus\\mediplus.domain\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932F9D58-B3B2-4095-AEC6-93E3B2139238}|MediPlus.Domain\\MediPlus.Domain.csproj|solutionrelative:mediplus.domain\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|d:\\projects\\mediplus\\mediplus.core\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D4B75C-BD35-480A-A13B-DDFFD8DFB2EA}|MediPlus.Core\\MediPlus.Core.csproj|solutionrelative:mediplus.core\\abstractions\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|d:\\projects\\mediplus\\mediplus.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|solutionrelative:mediplus.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|d:\\projects\\mediplus\\mediplus.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|solutionrelative:mediplus.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|d:\\projects\\mediplus\\mediplus.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23E362A5-D81F-4EED-ADE1-710333B33AE4}|MediPlus.MVC\\MediPlus.UI.csproj|solutionrelative:mediplus.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Program.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.MVC\\Program.cs",
+              "RelativeToolTip": "MediPlus.MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:18:40.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\Mappers\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "MediPlus.Application\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:25:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommandRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Repositories\\Generics\\CommandRepo.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\Repositories\\Generics\\CommandRepo.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Repositories\\Generics\\CommandRepo.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\Repositories\\Generics\\CommandRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:12:47.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueryRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Repositories\\Generics\\QueryRepo.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\Repositories\\Generics\\QueryRepo.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Repositories\\Generics\\QueryRepo.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\Repositories\\Generics\\QueryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:12:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CacheSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Domain\\Settings\\CacheSettings.cs",
+              "RelativeDocumentMoniker": "MediPlus.Domain\\Settings\\CacheSettings.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Domain\\Settings\\CacheSettings.cs",
+              "RelativeToolTip": "MediPlus.Domain\\Settings\\CacheSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:09:54.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\appsettings.json",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.MVC\\appsettings.json",
+              "RelativeToolTip": "MediPlus.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T07:18:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceInstaller.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\ApplicationServiceInstaller.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\ApplicationServiceInstaller.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\ApplicationServiceInstaller.cs",
+              "RelativeToolTip": "MediPlus.Application\\ApplicationServiceInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:23:51.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersistanceServiceInstaller.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\PersistanceServiceInstaller.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\PersistanceServiceInstaller.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\PersistanceServiceInstaller.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\PersistanceServiceInstaller.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:01:25.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediPlus.Domain",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Domain\\MediPlus.Domain.csproj",
+              "RelativeDocumentMoniker": "MediPlus.Domain\\MediPlus.Domain.csproj",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Domain\\MediPlus.Domain.csproj",
+              "RelativeToolTip": "MediPlus.Domain\\MediPlus.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T12:10:25.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InfrastructureInstallerService.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Infrastructure\\InfrastructureInstallerService.cs",
+              "RelativeDocumentMoniker": "MediPlus.Infrastructure\\InfrastructureInstallerService.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Infrastructure\\InfrastructureInstallerService.cs",
+              "RelativeToolTip": "MediPlus.Infrastructure\\InfrastructureInstallerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:50:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Infrastructure\\Services\\SliderService.cs",
+              "RelativeDocumentMoniker": "MediPlus.Infrastructure\\Services\\SliderService.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Infrastructure\\Services\\SliderService.cs",
+              "RelativeToolTip": "MediPlus.Infrastructure\\Services\\SliderService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:48:16.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MediPlus.Application",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\MediPlus.Application.csproj",
+              "RelativeDocumentMoniker": "MediPlus.Application\\MediPlus.Application.csproj",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\MediPlus.Application.csproj",
+              "RelativeToolTip": "MediPlus.Application\\MediPlus.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T10:43:52.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MediPlus.Core.csproj",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Core\\MediPlus.Core.csproj",
+              "RelativeDocumentMoniker": "MediPlus.Core\\MediPlus.Core.csproj",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Core\\MediPlus.Core.csproj",
+              "RelativeToolTip": "MediPlus.Core\\MediPlus.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T07:44:43.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SliderRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Repositories\\SliderRepo.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\Repositories\\SliderRepo.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Repositories\\SliderRepo.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\Repositories\\SliderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:17:28.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MediPlus.UI.csproj",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.MVC\\MediPlus.UI.csproj",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\MediPlus.UI.csproj",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.MVC\\MediPlus.UI.csproj",
+              "RelativeToolTip": "MediPlus.MVC\\MediPlus.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T07:56:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ISliderRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Domain\\IRepositories\\ISliderRepo.cs",
+              "RelativeDocumentMoniker": "MediPlus.Domain\\IRepositories\\ISliderRepo.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Domain\\IRepositories\\ISliderRepo.cs",
+              "RelativeToolTip": "MediPlus.Domain\\IRepositories\\ISliderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:17:11.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\IServices\\ISliderService.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\IServices\\ISliderService.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\IServices\\ISliderService.cs",
+              "RelativeToolTip": "MediPlus.Application\\IServices\\ISliderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:44:18.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "MediPlus.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:13:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Core\\Abstractions\\BaseException.cs",
+              "RelativeDocumentMoniker": "MediPlus.Core\\Abstractions\\BaseException.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Core\\Abstractions\\BaseException.cs",
+              "RelativeToolTip": "MediPlus.Core\\Abstractions\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:13:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateSliderValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\Validators\\Slider\\CreateSliderValidator.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\Validators\\Slider\\CreateSliderValidator.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\Validators\\Slider\\CreateSliderValidator.cs",
+              "RelativeToolTip": "MediPlus.Application\\Validators\\Slider\\CreateSliderValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:22:05.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MediPlus.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj",
+              "RelativeToolTip": "MediPlus.Infrastructure\\MediPlus.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T07:54:00.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICommandRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Domain\\IRepositories\\Generics\\ICommandRepo.cs",
+              "RelativeDocumentMoniker": "MediPlus.Domain\\IRepositories\\Generics\\ICommandRepo.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Domain\\IRepositories\\Generics\\ICommandRepo.cs",
+              "RelativeToolTip": "MediPlus.Domain\\IRepositories\\Generics\\ICommandRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:10:58.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IQueryRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Domain\\IRepositories\\Generics\\IQueryRepo.cs",
+              "RelativeDocumentMoniker": "MediPlus.Domain\\IRepositories\\Generics\\IQueryRepo.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Domain\\IRepositories\\Generics\\IQueryRepo.cs",
+              "RelativeToolTip": "MediPlus.Domain\\IRepositories\\Generics\\IQueryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:10:53.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateSliderDto.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "RelativeToolTip": "MediPlus.Application\\DTOs\\Slider\\CreateSliderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:19:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SliderDto.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Application\\DTOs\\Slider\\SliderDto.cs",
+              "RelativeDocumentMoniker": "MediPlus.Application\\DTOs\\Slider\\SliderDto.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Application\\DTOs\\Slider\\SliderDto.cs",
+              "RelativeToolTip": "MediPlus.Application\\DTOs\\Slider\\SliderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:19:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Core\\Abstractions\\BaseDto.cs",
+              "RelativeDocumentMoniker": "MediPlus.Core\\Abstractions\\BaseDto.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Core\\Abstractions\\BaseDto.cs",
+              "RelativeToolTip": "MediPlus.Core\\Abstractions\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:19:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:15:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:15:14.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SliderConfiguration.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Configuration\\SliderConfiguration.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\Configuration\\SliderConfiguration.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Configuration\\SliderConfiguration.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\Configuration\\SliderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:02:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MediPlusDb.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Context\\MediPlusDb.cs",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\Context\\MediPlusDb.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\Context\\MediPlusDb.cs",
+              "RelativeToolTip": "MediPlus.Persistance\\Context\\MediPlusDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:58:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Domain\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "MediPlus.Domain\\Entities\\Slider.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Domain\\Entities\\Slider.cs",
+              "RelativeToolTip": "MediPlus.Domain\\Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:50:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Core\\Abstractions\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MediPlus.Core\\Abstractions\\BaseEntity.cs",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Core\\Abstractions\\BaseEntity.cs",
+              "RelativeToolTip": "MediPlus.Core\\Abstractions\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:50:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MediPlus.Persistance.csproj",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\MediPlus.Persistance.csproj",
+              "RelativeDocumentMoniker": "MediPlus.Persistance\\MediPlus.Persistance.csproj",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.Persistance\\MediPlus.Persistance.csproj",
+              "RelativeToolTip": "MediPlus.Persistance\\MediPlus.Persistance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T07:49:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.MVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.MVC\\appsettings.Development.json",
+              "RelativeToolTip": "MediPlus.MVC\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T08:32:40.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T07:19:05.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MediPlus\\MediPlus.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MediPlus.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\MediPlus\\MediPlus.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MediPlus.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T07:18:35.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

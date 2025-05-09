@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MediPlus.UI.props" />
+</Project>

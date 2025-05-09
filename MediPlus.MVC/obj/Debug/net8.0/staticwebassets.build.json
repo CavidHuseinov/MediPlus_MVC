@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "mzQbv53WjfefkxEMhtVuuNUhLqZAjhKG98T3vgnr45g=",
+  "Source": "MediPlus.UI",
+  "BasePath": "_content/MediPlus.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MediPlus.UI\\wwwroot",
+      "Source": "MediPlus.UI",
+      "ContentRoot": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\",
+      "BasePath": "_content/MediPlus.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
