@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\Main\\css\\datepicker.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\Main\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Main\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Main\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Main\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\Main\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Main\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\Main\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\css\\style.css",
+      "PackagePath": "staticwebassets\\Main\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\Main\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\author1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\author2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\author3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blockqoute-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blockqoute-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blog-sidebar1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog-sidebar1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blog-sidebar2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog-sidebar2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blog-sidebar3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog-sidebar3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\blog3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\bread-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\call-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\client-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\client1.png",
+      "PackagePath": "staticwebassets\\Main\\img\\client1.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\client2.png",
+      "PackagePath": "staticwebassets\\Main\\img\\client2.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\client3.png",
+      "PackagePath": "staticwebassets\\Main\\img\\client3.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\client4.png",
+      "PackagePath": "staticwebassets\\Main\\img\\client4.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\client5.png",
+      "PackagePath": "staticwebassets\\Main\\img\\client5.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\Main\\img\\contact-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Main\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\fun-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\fun-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Main\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\Main\\img\\map-marker.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\mission-img.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\pf1.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\pf1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\pf2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\pf2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\pf3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\pf3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\pf4.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\pf4.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\section-img.png",
+      "PackagePath": "staticwebassets\\Main\\img\\section-img.png"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\signup-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\testi-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\Main\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Main\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\colors.js",
+      "PackagePath": "staticwebassets\\Main\\js\\colors.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\easing.js",
+      "PackagePath": "staticwebassets\\Main\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\load.js",
+      "PackagePath": "staticwebassets\\Main\\js\\load.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\main.js",
+      "PackagePath": "staticwebassets\\Main\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\Main\\js\\map-active.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\niceselect.js",
+      "PackagePath": "staticwebassets\\Main\\js\\niceselect.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\Main\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\slicknav.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\steller.js",
+      "PackagePath": "staticwebassets\\Main\\js\\steller.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\MediPlus\\MediPlus.MVC\\wwwroot\\Main\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Main\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MediPlus.UI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MediPlus.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MediPlus.UI.props",
+      "PackagePath": "build\\MediPlus.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MediPlus.UI.props",
+      "PackagePath": "buildMultiTargeting\\MediPlus.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MediPlus.UI.props",
+      "PackagePath": "buildTransitive\\MediPlus.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
