@@ -1,6 +1,6 @@
 ﻿
 using AutoMapper;
-using MediPlus.Application.DTOs.Slider;
+using MediPlus.Application.ViewModels.Slider;
 using MediPlus.Domain.Entities;
 
 namespace MediPlus.Application.Mappers
@@ -10,8 +10,8 @@ namespace MediPlus.Application.Mappers
         public MappingProfile()
         {
             #region Slider
-            CreateMap<Slider, SliderDto>().ReverseMap();
-            CreateMap<Slider, CreateSliderDto>().ReverseMap();
+            CreateMap<Slider, SliderVM>().ReverseMap();
+            CreateMap<Slider, CreateSliderVM>().ReverseMap();
             #endregion
         }
     }

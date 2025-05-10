@@ -7,10 +7,33 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\app-assets\.DS_Store" />
+    <None Include="wwwroot\app-assets\fonts\.DS_Store" />
+    <None Include="wwwroot\app-assets\images\.DS_Store" />
+    <None Include="wwwroot\app-assets\images\misch\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\chartist-js\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\chartjs\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\css\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\extensions\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\extensions\responsive\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\extensions\responsive\css\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\extensions\responsive\js\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\data-tables\js\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\dropify\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\flag-icon\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\fullcalendar\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\jquery-jvectormap\.DS_Store" />
+    <None Include="wwwroot\app-assets\vendors\sweetalert\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.15">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
   </ItemGroup>
 
   <ItemGroup>

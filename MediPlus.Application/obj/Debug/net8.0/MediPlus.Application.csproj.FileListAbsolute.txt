@@ -1,8 +1,3 @@
-D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.csproj.AssemblyReference.cache
-D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.AssemblyInfoInputs.cache
-D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.AssemblyInfo.cs
-D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.csproj.CoreCompileInputs.cache
 D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Application.deps.json
 D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Application.dll
 D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Application.pdb
@@ -12,6 +7,11 @@ D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Persistance.
 D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Persistance.pdb
 D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Core.pdb
 D:\Projects\MediPlus\MediPlus.Application\bin\Debug\net8.0\MediPlus.Domain.pdb
+D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.csproj.AssemblyReference.cache
+D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.AssemblyInfoInputs.cache
+D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.AssemblyInfo.cs
+D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.csproj.CoreCompileInputs.cache
 D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.D7E077E2.Up2Date
 D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\MediPlus.Application.dll
 D:\Projects\MediPlus\MediPlus.Application\obj\Debug\net8.0\refint\MediPlus.Application.dll

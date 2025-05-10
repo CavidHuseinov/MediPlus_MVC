@@ -1,10 +1,10 @@
 ﻿
 using FluentValidation;
-using MediPlus.Application.DTOs.Slider;
+using MediPlus.Application.ViewModels.Slider;
 
 namespace MediPlus.Application.Validators.Slider
 {
-    public class CreateSliderValidator : AbstractValidator<CreateSliderDto>
+    public class CreateSliderValidator : AbstractValidator<CreateSliderVM>
     {
         public CreateSliderValidator()
         {

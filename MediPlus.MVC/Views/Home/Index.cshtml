@@ -1,61 +1,28 @@
-﻿<!-- Slayder Sahəsi -->
+﻿@model IEnumerable<SliderVM>
+<!-- Slayder Sahəsi -->
 <section class="slider">
 	<div class="hero-slider">
-		<!-- Tək Slayder Başlanğıc -->
-		<div class="single-slider" style="background-image:url('@Url.Content("~/Main/img/slider2.jpg")')">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="text">
-							<h1>Biz <span>Tibb</span> Xidmətləri Təqdim Edirik ki, Siz <span>Güvənə</span> Biləsiniz!</h1>
-							<p>Peşəkar həkimlərimiz və müasir avadanlıqlarımızla sağlamlığınızı qorumağa hazırıq.</p>
-							<div class="button">
-								<a href="#" class="btn">Görüş Al</a>
-								<a href="#" class="btn primary">Ətraflı Öyrən</a>
+		@foreach (var slider in Model)
+		{
+			<!-- Tək Slayder Başlanğıc -->
+			<div class="single-slider" style="background-image:url('@Url.Content("~/Main/img/slider2.jpg")')">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-7">
+							<div class="text">
+								<h1>@slider.Title</h1>
+								<p>@slider.Description</p>
+								<div class="button">
+									<a href="#" class="btn">Görüş Al</a>
+									<a href="#" class="btn primary">Ətraflı Öyrən</a>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> 
+		}
 		</div>
-		<!-- Tək Slayder Sonu -->
-		<!-- Tək Slayder Başlanğıc -->
-		<div class="single-slider" style="background-image:url('@Url.Content("~/Main/img/slider.jpg")')">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="text">
-							<h1>Biz <span>Tibb</span> Xidmətləri Təqdim Edirik ki, Siz <span>Güvənə</span> Biləsiniz!</h1>
-							<p>Klinikamızda pasiyentlərimizə fərdi yanaşma və yüksək səviyyəli xidmət təklif edirik.</p>
-							<div class="button">
-								<a href="#" class="btn">Görüş Al</a>
-								<a href="#" class="btn primary">Haqqımızda</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Tək Slayder Sonu -->
-		<!-- Tək Slayder Başlanğıc -->
-		<div class="single-slider" style="background-image:url('@Url.Content("~/Main/img/slider3.jpg")')">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7">
-						<div class="text">
-							<h1>Biz <span>Tibb</span> Xidmətləri Təqdim Edirik ki, Siz <span>Güvənə</span> Biləsiniz!</h1>
-							<p>24/7 xidmətinizdəyik, sağlamlığınız bizim prioritetimizdir.</p>
-							<div class="button">
-								<a href="#" class="btn">Görüş Al</a>
-								<a href="#" class="btn primary">İndi Əlaqə Saxla</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Tək Slayder Sonu -->
-	</div>
 </section>
 <!-- Slayder Sahəsi Sonu -->
 <!-- Cədvəl Sahəsi Başlanğıc -->

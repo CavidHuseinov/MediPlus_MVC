@@ -1,6 +1,7 @@
 D:\Projects\MediPlus\MediPlus.Core\bin\Debug\net8.0\MediPlus.Core.deps.json
 D:\Projects\MediPlus\MediPlus.Core\bin\Debug\net8.0\MediPlus.Core.dll
 D:\Projects\MediPlus\MediPlus.Core\bin\Debug\net8.0\MediPlus.Core.pdb
+D:\Projects\MediPlus\MediPlus.Core\obj\Debug\net8.0\MediPlus.Core.csproj.AssemblyReference.cache
 D:\Projects\MediPlus\MediPlus.Core\obj\Debug\net8.0\MediPlus.Core.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\MediPlus\MediPlus.Core\obj\Debug\net8.0\MediPlus.Core.AssemblyInfoInputs.cache
 D:\Projects\MediPlus\MediPlus.Core\obj\Debug\net8.0\MediPlus.Core.AssemblyInfo.cs

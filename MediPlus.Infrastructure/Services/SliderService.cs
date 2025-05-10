@@ -1,7 +1,7 @@
 ﻿
 using AutoMapper;
-using MediPlus.Application.DTOs.Slider;
 using MediPlus.Application.Exceptions;
+using MediPlus.Application.ViewModels.Slider;
 using MediPlus.Domain.Entities;
 using MediPlus.Domain.Interfaces.Services;
 using MediPlus.Domain.IRepositories;
@@ -36,7 +36,7 @@ namespace MediPlus.Infrastructure.Services
             _time = time.Value;
         }
 
-        public async Task<SliderDto> CreateAsync(CreateSliderDto dto)
+        public async Task<SliderVM> CreateAsync(CreateSliderVM dto)
         {
             var slider = _mapper.Map<Slider>(dto);
             var createSlider = await _command.CreateAsync(slider);
@@ -44,28 +44,28 @@ namespace MediPlus.Infrastructure.Services
             var cacheKey = cacheKeyPrefix + createSlider.Id;
             _memory.Set(cacheKey, createSlider, TimeSpan.FromMinutes(_time.CacheMinutes));
             _memory.Remove(allCacheKey);
-            return _mapper.Map<SliderDto>(createSlider);
+            return _mapper.Map<SliderVM>(createSlider);
         }
 
-        public async Task<ICollection<SliderDto>> GetAllAsync()
+        public async Task<ICollection<SliderVM>> GetAllAsync()
         {
             if (_memory.TryGetValue(allCacheKey, out ICollection<Slider>? cachedDict))
             {
-                return _mapper.Map<ICollection<SliderDto>>(cachedDict);
+                return _mapper.Map<ICollection<SliderVM>>(cachedDict);
             }
             var allDatas = await _query.GetAllAsync().ToListAsync();
             _memory.Set(allCacheKey, allDatas, TimeSpan.FromMinutes(_time.CacheMinutes));
-            return _mapper.Map<ICollection<SliderDto>>(allDatas);
+            return _mapper.Map<ICollection<SliderVM>>(allDatas);
         }
 
-        public async Task<SliderDto> GetByIdAsync(Guid id)
+        public async Task<SliderVM> GetByIdAsync(Guid id)
         {
             var sliderId = await _query.GetByIdAsync(id);
             if (sliderId == null)
             {
                 throw new NotFoundException($"Slider bu id:{id} ile tapilmadi");
             }
-            return _mapper.Map<SliderDto>(sliderId);
+            return _mapper.Map<SliderVM>(sliderId);
         }
 
         public async Task RemoveAsync(Guid id)

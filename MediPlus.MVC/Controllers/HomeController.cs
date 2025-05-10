@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace MediPlus.UI.Controllers
+namespace MediPlus.Core.Abstractions
 {
-    public class HomeController : Controller
+    public sealed class HomeController : Controller
     {
         public IActionResult Index()
         {

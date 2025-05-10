@@ -1,7 +1,7 @@
 ﻿
 namespace MediPlus.Core.Abstractions
 {
-    public record BaseDto
+    public abstract record BaseDto
     {
         public Guid Id { get; set; }
     }

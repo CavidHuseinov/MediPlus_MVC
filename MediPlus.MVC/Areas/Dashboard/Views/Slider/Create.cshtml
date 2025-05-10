@@ -1,0 +1,23 @@
+﻿@model CreateSliderVM
+
+<div class="container" style="display:block; margin-left:13%; width:87%; padding-top:20px;">
+    <h2 style="margin-bottom:20px;">Create Slider</h2>
+
+    <form asp-action="Create" method="post" style="display:flex; flex-direction:column; gap:15px;">
+        <div>
+            <label for="Title" style="display:block; margin-bottom:5px;">Title</label>
+            <input type="text" asp-for="Title" class="form-control" style="width:100%; padding:10px; border-radius:5px;" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label for="Description" style="display:block; margin-bottom:5px;">Description</label>
+            <textarea asp-for="Description" class="form-control" rows="4" style="width:100%; padding:10px; border-radius:5px;"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <button type="submit" style="background-color:#9C27B0; color:white; padding:10px 20px; border:none; border-radius:5px;">
+            Create
+        </button>
+    </form>
+</div>

@@ -1,0 +1,38 @@
+﻿@model ICollection<SliderVM>
+
+<div class="container" style="display:block; margin-left:13%; width:87%;">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+        <h2>Sliders</h2>
+        <a asp-action="Create" style="background-color:green; color:white; border:none; padding:10px 20px; border-radius:5px;">
+            Create
+        </a>
+    </div>
+
+    <table style="width:100%; border-collapse:collapse;">
+        <thead style="background-color:#2C323F;">
+            <tr>
+                <th style="padding:10px; text-align:left; color:#fff;">ID</th>
+                <th style="padding:10px; text-align:left; color:#fff;">Title</th>
+                <th style="padding:10px; text-align:left; color:#fff;">Description</th>
+                <th style="padding:10px; text-align:left; color:#fff;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var slider in Model)
+            {
+                <tr>
+                    <td>@slider.Id</td>
+                    <td>@slider.Title</td>
+                    <td>@slider.Description</td>
+                    <td>
+                        <form asp-action="Remove" asp-route-id="@slider.Id" method="post" style="display:inline;">
+                            <button type="submit" style="background-color:red; color:white; padding:5px 10px; border-radius:5px; border:none;">
+                                Delete
+                            </button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
