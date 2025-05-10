@@ -1,19 +1,25 @@
-﻿@model CreateSliderVM
+﻿@model CreateSliderFileUpload
 
 <div class="container" style="display:block; margin-left:13%; width:87%; padding-top:20px;">
     <h2 style="margin-bottom:20px;">Create Slider</h2>
 
-    <form asp-action="Create" method="post" style="display:flex; flex-direction:column; gap:15px;">
+    <form asp-action="Create" method="post" enctype="multipart/form-data" style="display:flex; flex-direction:column; gap:15px;">
         <div>
             <label for="Title" style="display:block; margin-bottom:5px;">Title</label>
-            <input type="text" asp-for="Title" class="form-control" style="width:100%; padding:10px; border-radius:5px;" />
-            <span asp-validation-for="Title" class="text-danger"></span>
+            <input type="text" asp-for="SliderVM.Title" class="form-control" style="width:100%; padding:10px; border-radius:5px;" />
+            <span asp-validation-for="SliderVM.Title" class="text-danger"></span>
         </div>
 
         <div>
             <label for="Description" style="display:block; margin-bottom:5px;">Description</label>
-            <textarea asp-for="Description" class="form-control" rows="4" style="width:100%; padding:10px; border-radius:5px;"></textarea>
-            <span asp-validation-for="Description" class="text-danger"></span>
+            <textarea asp-for="SliderVM.Description" class="form-control" rows="4" style="width:100%; padding:10px; border-radius:5px;"></textarea>
+            <span asp-validation-for="SliderVM.Description" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label for="File" style="display:block; margin-bottom:5px;">File</label>
+            <input type="file" asp-for="FileUploadVM.File" class="form-control" rows="4" style="width:100%; padding:10px; border-radius:5px;"></input>
+            <span asp-validation-for="FileUploadVM.File" class="text-danger"></span>
         </div>
 
         <button type="submit" style="background-color:#9C27B0; color:white; padding:10px 20px; border:none; border-radius:5px;">

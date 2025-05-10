@@ -16,6 +16,7 @@ namespace MediPlus.MVC
             PersistanceServiceInstaller.AddDIRepositories(builder.Services);
             InfrastructureInstallerService.AddDIServices(builder.Services);
             builder.Services.Configure<CacheSettings>(builder.Configuration.GetSection("CacheSettings"));
+            builder.Services.Configure<AWS>(builder.Configuration.GetSection("AWS"));
 
 
 

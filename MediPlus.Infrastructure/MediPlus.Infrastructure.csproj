@@ -10,8 +10,11 @@
     <Folder Include="BackgroundService\" />
     <Folder Include="Email\" />
     <Folder Include="ExternalService\" />
-    <Folder Include="FileStorage\" />
     <Folder Include="Logging\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="4.0.0.3" />
   </ItemGroup>
 
   <ItemGroup>

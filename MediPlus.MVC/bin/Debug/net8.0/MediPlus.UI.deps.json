@@ -27,6 +27,25 @@
           }
         }
       },
+      "AWSSDK.Core/4.0.0.3": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.3"
+          }
+        }
+      },
+      "AWSSDK.S3/4.0.0.3": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.0.3"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.3"
+          }
+        }
+      },
       "Azure.Core/1.38.0": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "7.0.0",
@@ -2389,6 +2408,7 @@
       },
       "MediPlus.Infrastructure/1.0.0": {
         "dependencies": {
+          "AWSSDK.S3": "4.0.0.3",
           "MediPlus.Application": "1.0.0"
         },
         "runtime": {
@@ -2425,6 +2445,20 @@
       "sha512": "sha512-OC+1neAPM4oCCqQj3g2GJ2shziNNhOkxmNB9cVS8jtx4JbgmRzLcUOxB9Tsz6cVPHugdkHgCaCrTjjSI0Z5sCQ==",
       "path": "automapper/14.0.0",
       "hashPath": "automapper.14.0.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/4.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pqHRxwcL35Pq2BTkG2ebFBqP4MXNIv2lSV4LGDohYwqdZRYTy50ZIyRoi4psbbDfX98PbcndXAuhkt5USWExcQ==",
+      "path": "awssdk.core/4.0.0.3",
+      "hashPath": "awssdk.core.4.0.0.3.nupkg.sha512"
+    },
+    "AWSSDK.S3/4.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-88ynMipuY2t4vlaKX+ubHt9gkHT5zEH0sVlJ7sHh7wTmI07qUJTA2QwzcqnFTuji8xn9iRT3WYLKbTgSyv9HWA==",
+      "path": "awssdk.s3/4.0.0.3",
+      "hashPath": "awssdk.s3.4.0.0.3.nupkg.sha512"
     },
     "Azure.Core/1.38.0": {
       "type": "package",

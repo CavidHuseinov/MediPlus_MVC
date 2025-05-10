@@ -285,3 +285,5 @@ D:\Projects\MediPlus\MediPlus.MVC\obj\Debug\net8.0\refint\MediPlus.UI.dll
 D:\Projects\MediPlus\MediPlus.MVC\obj\Debug\net8.0\MediPlus.UI.pdb
 D:\Projects\MediPlus\MediPlus.MVC\obj\Debug\net8.0\MediPlus.UI.genruntimeconfig.cache
 D:\Projects\MediPlus\MediPlus.MVC\obj\Debug\net8.0\ref\MediPlus.UI.dll
+D:\Projects\MediPlus\MediPlus.MVC\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Projects\MediPlus\MediPlus.MVC\bin\Debug\net8.0\AWSSDK.S3.dll

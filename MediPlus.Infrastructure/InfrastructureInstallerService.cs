@@ -1,5 +1,7 @@
 ﻿
 using MediPlus.Domain.Interfaces.Services;
+using MediPlus.Infrastructure.FileStorage.Implementations;
+using MediPlus.Infrastructure.FileStorage.Interfaces;
 using MediPlus.Infrastructure.Services;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -11,6 +13,7 @@ namespace MediPlus.Infrastructure
         {
             #region Services
             services.AddScoped<ISliderService, SliderService>();
+            services.AddScoped<IAWSUploadService,AWSUploadService>();
             #endregion
         }
     }
